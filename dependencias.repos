@@ -1,0 +1,5 @@
+repositories:
+  doosan-robot2:
+    type: git
+    url: https://github.com/DoosanRobotics/doosan-robot2.git
+    version: 6c5f3ba622bfa9d6f9cffebf21fa44f57db55b48

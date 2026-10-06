@@ -1,0 +1,24 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated TF graphs
+frames_*.gv
+frames_*.pdf
+src/doosan-robot2/
